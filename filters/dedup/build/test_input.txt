@@ -1,0 +1,1 @@
+<html><head><title>Test Page</title></head><body><h1>Hello World</h1><p>This is test content for extraction.</p><nav>Home | About | Contact</nav><footer>Copyright 2024</footer></body></html>

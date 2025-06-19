@@ -1,0 +1,13 @@
+# Examples CMakeLists.txt
+
+add_executable(simple_example simple_example.cpp)
+target_link_libraries(simple_example rapidsift_core)
+
+add_executable(language_filter_example language_filter_example.cpp)
+target_link_libraries(language_filter_example rapidsift_core)
+
+add_executable(text_extraction_example text_extraction_example.cpp)
+target_link_libraries(text_extraction_example rapidsift_core)
+
+# Install examples
+install(TARGETS simple_example language_filter_example text_extraction_example DESTINATION examples) 

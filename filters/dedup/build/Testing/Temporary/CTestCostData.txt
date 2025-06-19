@@ -1,0 +1,9 @@
+ExactDeduplication 2 0.344776
+NearDeduplication 2 0.211852
+Utilities 2 0.224608
+LanguageFilter 2 7.21913
+Integration 2 0.210871
+Performance 2 0.727929
+TextExtractor 0 0
+---
+TextExtractor

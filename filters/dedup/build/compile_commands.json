@@ -1,0 +1,110 @@
+[
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/dedup/build",
+  "command": "/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/dedup/include -isystem /usr/local/Cellar/openssl@3/3.5.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/rapidsift_core.dir/src/exact_dedup.cpp.o -c /Users/ericmodesitt/RapidSift/filters/dedup/src/exact_dedup.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/dedup/src/exact_dedup.cpp",
+  "output": "CMakeFiles/rapidsift_core.dir/src/exact_dedup.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/dedup/build",
+  "command": "/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/dedup/include -isystem /usr/local/Cellar/openssl@3/3.5.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/rapidsift_core.dir/src/near_dedup.cpp.o -c /Users/ericmodesitt/RapidSift/filters/dedup/src/near_dedup.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/dedup/src/near_dedup.cpp",
+  "output": "CMakeFiles/rapidsift_core.dir/src/near_dedup.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/dedup/build",
+  "command": "/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/dedup/include -isystem /usr/local/Cellar/openssl@3/3.5.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/rapidsift_core.dir/src/utils.cpp.o -c /Users/ericmodesitt/RapidSift/filters/dedup/src/utils.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/dedup/src/utils.cpp",
+  "output": "CMakeFiles/rapidsift_core.dir/src/utils.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/dedup/build",
+  "command": "/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/dedup/include -isystem /usr/local/Cellar/openssl@3/3.5.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/rapidsift_core.dir/src/language_filter.cpp.o -c /Users/ericmodesitt/RapidSift/filters/dedup/src/language_filter.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/dedup/src/language_filter.cpp",
+  "output": "CMakeFiles/rapidsift_core.dir/src/language_filter.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/dedup/build",
+  "command": "/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/dedup/include -isystem /usr/local/Cellar/openssl@3/3.5.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/rapidsift_core.dir/src/text_extractor.cpp.o -c /Users/ericmodesitt/RapidSift/filters/dedup/src/text_extractor.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/dedup/src/text_extractor.cpp",
+  "output": "CMakeFiles/rapidsift_core.dir/src/text_extractor.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/dedup/build",
+  "command": "/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/dedup/include -isystem /usr/local/Cellar/openssl@3/3.5.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/rapidsift_core.dir/src/text_extractor_utils.cpp.o -c /Users/ericmodesitt/RapidSift/filters/dedup/src/text_extractor_utils.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/dedup/src/text_extractor_utils.cpp",
+  "output": "CMakeFiles/rapidsift_core.dir/src/text_extractor_utils.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/dedup/build",
+  "command": "/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/dedup/include -isystem /usr/local/Cellar/openssl@3/3.5.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/rapidsift.dir/src/main.cpp.o -c /Users/ericmodesitt/RapidSift/filters/dedup/src/main.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/dedup/src/main.cpp",
+  "output": "CMakeFiles/rapidsift.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/dedup/build",
+  "command": "/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/dedup/include -isystem /usr/local/Cellar/openssl@3/3.5.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/test_exact_dedup.dir/tests/test_exact_dedup.cpp.o -c /Users/ericmodesitt/RapidSift/filters/dedup/tests/test_exact_dedup.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/dedup/tests/test_exact_dedup.cpp",
+  "output": "CMakeFiles/test_exact_dedup.dir/tests/test_exact_dedup.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/dedup/build",
+  "command": "/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/dedup/include -isystem /usr/local/Cellar/openssl@3/3.5.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/test_near_dedup.dir/tests/test_near_dedup.cpp.o -c /Users/ericmodesitt/RapidSift/filters/dedup/tests/test_near_dedup.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/dedup/tests/test_near_dedup.cpp",
+  "output": "CMakeFiles/test_near_dedup.dir/tests/test_near_dedup.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/dedup/build",
+  "command": "/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/dedup/include -isystem /usr/local/Cellar/openssl@3/3.5.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/test_utils.dir/tests/test_utils.cpp.o -c /Users/ericmodesitt/RapidSift/filters/dedup/tests/test_utils.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/dedup/tests/test_utils.cpp",
+  "output": "CMakeFiles/test_utils.dir/tests/test_utils.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/dedup/build",
+  "command": "/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/dedup/include -isystem /usr/local/Cellar/openssl@3/3.5.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/test_language_filter.dir/tests/test_language_filter.cpp.o -c /Users/ericmodesitt/RapidSift/filters/dedup/tests/test_language_filter.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/dedup/tests/test_language_filter.cpp",
+  "output": "CMakeFiles/test_language_filter.dir/tests/test_language_filter.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/dedup/build",
+  "command": "/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/dedup/include -isystem /usr/local/Cellar/openssl@3/3.5.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/test_text_extractor.dir/tests/test_text_extractor.cpp.o -c /Users/ericmodesitt/RapidSift/filters/dedup/tests/test_text_extractor.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/dedup/tests/test_text_extractor.cpp",
+  "output": "CMakeFiles/test_text_extractor.dir/tests/test_text_extractor.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/dedup/build",
+  "command": "/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/dedup/include -isystem /usr/local/Cellar/openssl@3/3.5.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/run_all_tests.dir/tests/run_all_tests.cpp.o -c /Users/ericmodesitt/RapidSift/filters/dedup/tests/run_all_tests.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/dedup/tests/run_all_tests.cpp",
+  "output": "CMakeFiles/run_all_tests.dir/tests/run_all_tests.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/dedup/build",
+  "command": "/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/dedup/include -isystem /usr/local/Cellar/openssl@3/3.5.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/performance_test.dir/tests/performance_test.cpp.o -c /Users/ericmodesitt/RapidSift/filters/dedup/tests/performance_test.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/dedup/tests/performance_test.cpp",
+  "output": "CMakeFiles/performance_test.dir/tests/performance_test.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/dedup/build",
+  "command": "/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/dedup/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/create_test_data.dir/tests/create_test_data.cpp.o -c /Users/ericmodesitt/RapidSift/filters/dedup/tests/create_test_data.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/dedup/tests/create_test_data.cpp",
+  "output": "CMakeFiles/create_test_data.dir/tests/create_test_data.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/dedup/build/examples",
+  "command": "/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/dedup/include -isystem /usr/local/Cellar/openssl@3/3.5.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/simple_example.dir/simple_example.cpp.o -c /Users/ericmodesitt/RapidSift/filters/dedup/examples/simple_example.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/dedup/examples/simple_example.cpp",
+  "output": "examples/CMakeFiles/simple_example.dir/simple_example.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/dedup/build/examples",
+  "command": "/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/dedup/include -isystem /usr/local/Cellar/openssl@3/3.5.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/language_filter_example.dir/language_filter_example.cpp.o -c /Users/ericmodesitt/RapidSift/filters/dedup/examples/language_filter_example.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/dedup/examples/language_filter_example.cpp",
+  "output": "examples/CMakeFiles/language_filter_example.dir/language_filter_example.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/dedup/build/examples",
+  "command": "/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/dedup/include -isystem /usr/local/Cellar/openssl@3/3.5.0/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/text_extraction_example.dir/text_extraction_example.cpp.o -c /Users/ericmodesitt/RapidSift/filters/dedup/examples/text_extraction_example.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/dedup/examples/text_extraction_example.cpp",
+  "output": "examples/CMakeFiles/text_extraction_example.dir/text_extraction_example.cpp.o"
+}
+]

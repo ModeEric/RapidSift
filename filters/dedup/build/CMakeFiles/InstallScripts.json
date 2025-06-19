@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/ericmodesitt/RapidSift/filters/dedup/build/cmake_install.cmake",
+		"/Users/ericmodesitt/RapidSift/filters/dedup/build/examples/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

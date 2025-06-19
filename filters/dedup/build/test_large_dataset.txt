@@ -1,0 +1,1000 @@
+Unique document 0 with special content for ID 0
+Pattern B: Another type of document with different content structure
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting - variation 3
+Pattern B: Another type of document with different content structure
+Pattern C: Third variation with unique characteristics and formatting
+Pattern B: Another type of document with different content structure - variation 6
+Pattern C: Third variation with unique characteristics and formatting
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization
+Unique document 10 with special content for ID 10
+Pattern C: Third variation with unique characteristics and formatting
+Pattern D: Fourth pattern type with specific content organization - variation 12
+Pattern C: Third variation with unique characteristics and formatting - variation 13
+Pattern D: Fourth pattern type with specific content organization - variation 14
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently
+Unique document 20 with special content for ID 20
+Pattern C: Third variation with unique characteristics and formatting - variation 1
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently - variation 7
+Pattern D: Fourth pattern type with specific content organization
+Pattern C: Third variation with unique characteristics and formatting
+Unique document 30 with special content for ID 30
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently
+Pattern D: Fourth pattern type with specific content organization - variation 13
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization - variation 18
+Pattern D: Fourth pattern type with specific content organization
+Unique document 40 with special content for ID 40
+Pattern A: This is a common document pattern that appears frequently
+Pattern D: Fourth pattern type with specific content organization
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure - variation 6
+Pattern A: This is a common document pattern that appears frequently
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting - variation 9
+Unique document 50 with special content for ID 50
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting - variation 12
+Pattern E: Fifth pattern variant with distinctive text elements - variation 13
+Pattern B: Another type of document with different content structure - variation 14
+Pattern A: This is a common document pattern that appears frequently
+Pattern A: This is a common document pattern that appears frequently - variation 16
+Pattern C: Third variation with unique characteristics and formatting - variation 17
+Pattern D: Fourth pattern type with specific content organization - variation 18
+Pattern E: Fifth pattern variant with distinctive text elements - variation 19
+Unique document 60 with special content for ID 60
+Pattern E: Fifth pattern variant with distinctive text elements - variation 1
+Pattern E: Fifth pattern variant with distinctive text elements - variation 2
+Pattern B: Another type of document with different content structure
+Pattern E: Fifth pattern variant with distinctive text elements - variation 4
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently
+Pattern A: This is a common document pattern that appears frequently - variation 8
+Pattern C: Third variation with unique characteristics and formatting
+Unique document 70 with special content for ID 70
+Pattern D: Fourth pattern type with specific content organization
+Pattern B: Another type of document with different content structure - variation 12
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure - variation 14
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization - variation 16
+Pattern A: This is a common document pattern that appears frequently - variation 17
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently
+Unique document 80 with special content for ID 80
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure - variation 3
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure - variation 6
+Pattern C: Third variation with unique characteristics and formatting - variation 7
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure
+Unique document 90 with special content for ID 90
+Pattern E: Fifth pattern variant with distinctive text elements - variation 11
+Pattern A: This is a common document pattern that appears frequently - variation 12
+Pattern B: Another type of document with different content structure - variation 13
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization - variation 15
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting - variation 19
+Unique document 100 with special content for ID 100
+Pattern A: This is a common document pattern that appears frequently - variation 1
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently - variation 5
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently - variation 8
+Pattern E: Fifth pattern variant with distinctive text elements - variation 9
+Unique document 110 with special content for ID 110
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization - variation 12
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern E: Fifth pattern variant with distinctive text elements - variation 15
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently - variation 17
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting
+Unique document 120 with special content for ID 120
+Pattern A: This is a common document pattern that appears frequently - variation 1
+Pattern B: Another type of document with different content structure
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure - variation 4
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently - variation 9
+Unique document 130 with special content for ID 130
+Pattern A: This is a common document pattern that appears frequently - variation 11
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting - variation 14
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure - variation 16
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure
+Unique document 140 with special content for ID 140
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently - variation 3
+Pattern D: Fourth pattern type with specific content organization
+Pattern C: Third variation with unique characteristics and formatting
+Pattern E: Fifth pattern variant with distinctive text elements - variation 6
+Pattern D: Fourth pattern type with specific content organization
+Pattern C: Third variation with unique characteristics and formatting
+Pattern E: Fifth pattern variant with distinctive text elements
+Unique document 150 with special content for ID 150
+Pattern C: Third variation with unique characteristics and formatting
+Pattern E: Fifth pattern variant with distinctive text elements - variation 12
+Pattern C: Third variation with unique characteristics and formatting
+Pattern E: Fifth pattern variant with distinctive text elements - variation 14
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization
+Unique document 160 with special content for ID 160
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements - variation 2
+Pattern C: Third variation with unique characteristics and formatting - variation 3
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently - variation 5
+Pattern A: This is a common document pattern that appears frequently
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization
+Pattern C: Third variation with unique characteristics and formatting
+Unique document 170 with special content for ID 170
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently - variation 12
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure
+Pattern C: Third variation with unique characteristics and formatting
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure - variation 18
+Pattern C: Third variation with unique characteristics and formatting
+Unique document 180 with special content for ID 180
+Pattern C: Third variation with unique characteristics and formatting
+Pattern B: Another type of document with different content structure - variation 2
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization - variation 4
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently
+Unique document 190 with special content for ID 190
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure - variation 12
+Pattern B: Another type of document with different content structure
+Pattern A: This is a common document pattern that appears frequently - variation 14
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure - variation 16
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting
+Pattern D: Fourth pattern type with specific content organization
+Unique document 200 with special content for ID 200
+Pattern C: Third variation with unique characteristics and formatting - variation 1
+Pattern B: Another type of document with different content structure
+Pattern A: This is a common document pattern that appears frequently
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting - variation 8
+Pattern C: Third variation with unique characteristics and formatting
+Unique document 210 with special content for ID 210
+Pattern D: Fourth pattern type with specific content organization - variation 11
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure
+Pattern E: Fifth pattern variant with distinctive text elements - variation 14
+Pattern D: Fourth pattern type with specific content organization
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements - variation 19
+Unique document 220 with special content for ID 220
+Pattern E: Fifth pattern variant with distinctive text elements - variation 1
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting
+Pattern D: Fourth pattern type with specific content organization
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization - variation 7
+Pattern C: Third variation with unique characteristics and formatting - variation 8
+Pattern B: Another type of document with different content structure - variation 9
+Unique document 230 with special content for ID 230
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting - variation 15
+Pattern A: This is a common document pattern that appears frequently - variation 16
+Pattern E: Fifth pattern variant with distinctive text elements - variation 17
+Pattern D: Fourth pattern type with specific content organization - variation 18
+Pattern B: Another type of document with different content structure
+Unique document 240 with special content for ID 240
+Pattern E: Fifth pattern variant with distinctive text elements - variation 1
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern E: Fifth pattern variant with distinctive text elements - variation 5
+Pattern B: Another type of document with different content structure - variation 6
+Pattern C: Third variation with unique characteristics and formatting - variation 7
+Pattern B: Another type of document with different content structure
+Pattern E: Fifth pattern variant with distinctive text elements
+Unique document 250 with special content for ID 250
+Pattern E: Fifth pattern variant with distinctive text elements - variation 11
+Pattern B: Another type of document with different content structure
+Pattern E: Fifth pattern variant with distinctive text elements - variation 13
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently - variation 16
+Pattern A: This is a common document pattern that appears frequently
+Pattern A: This is a common document pattern that appears frequently
+Pattern A: This is a common document pattern that appears frequently
+Unique document 260 with special content for ID 260
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting - variation 3
+Pattern A: This is a common document pattern that appears frequently
+Pattern D: Fourth pattern type with specific content organization
+Pattern B: Another type of document with different content structure - variation 6
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization - variation 9
+Unique document 270 with special content for ID 270
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting
+Pattern B: Another type of document with different content structure - variation 15
+Pattern C: Third variation with unique characteristics and formatting
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure - variation 18
+Pattern C: Third variation with unique characteristics and formatting - variation 19
+Unique document 280 with special content for ID 280
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements - variation 2
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern E: Fifth pattern variant with distinctive text elements - variation 7
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting
+Unique document 290 with special content for ID 290
+Pattern C: Third variation with unique characteristics and formatting - variation 11
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting - variation 14
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization - variation 17
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure - variation 19
+Unique document 300 with special content for ID 300
+Pattern A: This is a common document pattern that appears frequently - variation 1
+Pattern A: This is a common document pattern that appears frequently
+Pattern D: Fourth pattern type with specific content organization - variation 3
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently - variation 5
+Pattern C: Third variation with unique characteristics and formatting - variation 6
+Pattern B: Another type of document with different content structure
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently - variation 9
+Unique document 310 with special content for ID 310
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently - variation 12
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure - variation 14
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure
+Unique document 320 with special content for ID 320
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization - variation 2
+Pattern B: Another type of document with different content structure - variation 3
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements - variation 5
+Pattern C: Third variation with unique characteristics and formatting - variation 6
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization
+Pattern B: Another type of document with different content structure
+Unique document 330 with special content for ID 330
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure
+Pattern E: Fifth pattern variant with distinctive text elements - variation 16
+Pattern A: This is a common document pattern that appears frequently
+Pattern A: This is a common document pattern that appears frequently - variation 18
+Pattern C: Third variation with unique characteristics and formatting
+Unique document 340 with special content for ID 340
+Pattern A: This is a common document pattern that appears frequently - variation 1
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure - variation 3
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements - variation 6
+Pattern A: This is a common document pattern that appears frequently
+Pattern D: Fourth pattern type with specific content organization
+Pattern B: Another type of document with different content structure
+Unique document 350 with special content for ID 350
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure - variation 12
+Pattern B: Another type of document with different content structure - variation 13
+Pattern C: Third variation with unique characteristics and formatting - variation 14
+Pattern A: This is a common document pattern that appears frequently - variation 15
+Pattern C: Third variation with unique characteristics and formatting
+Pattern D: Fourth pattern type with specific content organization - variation 17
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization
+Unique document 360 with special content for ID 360
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting - variation 2
+Pattern A: This is a common document pattern that appears frequently - variation 3
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting
+Pattern D: Fourth pattern type with specific content organization - variation 8
+Pattern B: Another type of document with different content structure
+Unique document 370 with special content for ID 370
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently - variation 14
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently
+Pattern A: This is a common document pattern that appears frequently
+Pattern D: Fourth pattern type with specific content organization - variation 18
+Pattern B: Another type of document with different content structure - variation 19
+Unique document 380 with special content for ID 380
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements - variation 3
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting - variation 5
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently
+Unique document 390 with special content for ID 390
+Pattern A: This is a common document pattern that appears frequently - variation 11
+Pattern D: Fourth pattern type with specific content organization
+Pattern C: Third variation with unique characteristics and formatting
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization - variation 17
+Pattern C: Third variation with unique characteristics and formatting
+Pattern E: Fifth pattern variant with distinctive text elements - variation 19
+Unique document 400 with special content for ID 400
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently - variation 2
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern E: Fifth pattern variant with distinctive text elements - variation 6
+Pattern E: Fifth pattern variant with distinctive text elements - variation 7
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure - variation 9
+Unique document 410 with special content for ID 410
+Pattern A: This is a common document pattern that appears frequently
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern E: Fifth pattern variant with distinctive text elements - variation 15
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting
+Unique document 420 with special content for ID 420
+Pattern E: Fifth pattern variant with distinctive text elements - variation 1
+Pattern C: Third variation with unique characteristics and formatting - variation 2
+Pattern D: Fourth pattern type with specific content organization
+Pattern C: Third variation with unique characteristics and formatting - variation 4
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting
+Pattern B: Another type of document with different content structure - variation 7
+Pattern E: Fifth pattern variant with distinctive text elements - variation 8
+Pattern E: Fifth pattern variant with distinctive text elements
+Unique document 430 with special content for ID 430
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure - variation 15
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting
+Unique document 440 with special content for ID 440
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting - variation 2
+Pattern C: Third variation with unique characteristics and formatting
+Pattern E: Fifth pattern variant with distinctive text elements - variation 4
+Pattern D: Fourth pattern type with specific content organization - variation 5
+Pattern D: Fourth pattern type with specific content organization - variation 6
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure
+Pattern C: Third variation with unique characteristics and formatting
+Unique document 450 with special content for ID 450
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure - variation 18
+Pattern C: Third variation with unique characteristics and formatting
+Unique document 460 with special content for ID 460
+Pattern D: Fourth pattern type with specific content organization
+Pattern B: Another type of document with different content structure
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting - variation 6
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure
+Unique document 470 with special content for ID 470
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements - variation 12
+Pattern E: Fifth pattern variant with distinctive text elements - variation 13
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure - variation 18
+Pattern D: Fourth pattern type with specific content organization
+Unique document 480 with special content for ID 480
+Pattern A: This is a common document pattern that appears frequently
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization - variation 3
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting - variation 7
+Pattern B: Another type of document with different content structure
+Pattern C: Third variation with unique characteristics and formatting - variation 9
+Unique document 490 with special content for ID 490
+Pattern D: Fourth pattern type with specific content organization - variation 11
+Pattern A: This is a common document pattern that appears frequently
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization
+Pattern B: Another type of document with different content structure - variation 16
+Pattern D: Fourth pattern type with specific content organization
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting
+Unique document 500 with special content for ID 500
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting - variation 2
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting
+Pattern B: Another type of document with different content structure
+Unique document 510 with special content for ID 510
+Pattern C: Third variation with unique characteristics and formatting
+Pattern E: Fifth pattern variant with distinctive text elements - variation 12
+Pattern C: Third variation with unique characteristics and formatting
+Pattern B: Another type of document with different content structure - variation 14
+Pattern C: Third variation with unique characteristics and formatting
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure - variation 19
+Unique document 520 with special content for ID 520
+Pattern B: Another type of document with different content structure
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently - variation 3
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting
+Pattern B: Another type of document with different content structure - variation 8
+Pattern E: Fifth pattern variant with distinctive text elements - variation 9
+Unique document 530 with special content for ID 530
+Pattern C: Third variation with unique characteristics and formatting - variation 11
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting - variation 13
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently
+Pattern A: This is a common document pattern that appears frequently - variation 16
+Pattern C: Third variation with unique characteristics and formatting - variation 17
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization
+Unique document 540 with special content for ID 540
+Pattern A: This is a common document pattern that appears frequently
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure - variation 4
+Pattern A: This is a common document pattern that appears frequently - variation 5
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting - variation 8
+Pattern C: Third variation with unique characteristics and formatting
+Unique document 550 with special content for ID 550
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure
+Pattern C: Third variation with unique characteristics and formatting - variation 15
+Pattern C: Third variation with unique characteristics and formatting - variation 16
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting
+Pattern E: Fifth pattern variant with distinctive text elements
+Unique document 560 with special content for ID 560
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements - variation 3
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization - variation 8
+Pattern E: Fifth pattern variant with distinctive text elements - variation 9
+Unique document 570 with special content for ID 570
+Pattern C: Third variation with unique characteristics and formatting
+Pattern E: Fifth pattern variant with distinctive text elements - variation 12
+Pattern D: Fourth pattern type with specific content organization
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting - variation 15
+Pattern B: Another type of document with different content structure - variation 16
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization
+Unique document 580 with special content for ID 580
+Pattern B: Another type of document with different content structure
+Pattern C: Third variation with unique characteristics and formatting - variation 2
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting - variation 6
+Pattern C: Third variation with unique characteristics and formatting - variation 7
+Pattern B: Another type of document with different content structure
+Pattern A: This is a common document pattern that appears frequently
+Unique document 590 with special content for ID 590
+Pattern B: Another type of document with different content structure
+Pattern C: Third variation with unique characteristics and formatting - variation 12
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization
+Unique document 600 with special content for ID 600
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently - variation 2
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization - variation 5
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization
+Pattern C: Third variation with unique characteristics and formatting
+Pattern E: Fifth pattern variant with distinctive text elements - variation 9
+Unique document 610 with special content for ID 610
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting - variation 12
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently
+Pattern A: This is a common document pattern that appears frequently - variation 15
+Pattern D: Fourth pattern type with specific content organization - variation 16
+Pattern E: Fifth pattern variant with distinctive text elements - variation 17
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization
+Unique document 620 with special content for ID 620
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure - variation 5
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently - variation 7
+Pattern B: Another type of document with different content structure - variation 8
+Pattern A: This is a common document pattern that appears frequently
+Unique document 630 with special content for ID 630
+Pattern D: Fourth pattern type with specific content organization - variation 11
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure
+Pattern C: Third variation with unique characteristics and formatting - variation 14
+Pattern C: Third variation with unique characteristics and formatting
+Pattern D: Fourth pattern type with specific content organization - variation 16
+Pattern A: This is a common document pattern that appears frequently - variation 17
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently - variation 19
+Unique document 640 with special content for ID 640
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently - variation 2
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure - variation 4
+Pattern D: Fourth pattern type with specific content organization - variation 5
+Pattern D: Fourth pattern type with specific content organization - variation 6
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting - variation 8
+Pattern D: Fourth pattern type with specific content organization - variation 9
+Unique document 650 with special content for ID 650
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization - variation 15
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently - variation 19
+Unique document 660 with special content for ID 660
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization - variation 6
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization - variation 9
+Unique document 670 with special content for ID 670
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently - variation 15
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization - variation 17
+Pattern B: Another type of document with different content structure - variation 18
+Pattern B: Another type of document with different content structure
+Unique document 680 with special content for ID 680
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting
+Pattern B: Another type of document with different content structure
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting - variation 8
+Pattern C: Third variation with unique characteristics and formatting - variation 9
+Unique document 690 with special content for ID 690
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization
+Pattern B: Another type of document with different content structure
+Pattern A: This is a common document pattern that appears frequently - variation 14
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure
+Pattern E: Fifth pattern variant with distinctive text elements - variation 19
+Unique document 700 with special content for ID 700
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting - variation 6
+Pattern A: This is a common document pattern that appears frequently
+Pattern D: Fourth pattern type with specific content organization - variation 8
+Pattern C: Third variation with unique characteristics and formatting
+Unique document 710 with special content for ID 710
+Pattern A: This is a common document pattern that appears frequently - variation 11
+Pattern A: This is a common document pattern that appears frequently - variation 12
+Pattern E: Fifth pattern variant with distinctive text elements - variation 13
+Pattern B: Another type of document with different content structure
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting - variation 16
+Pattern C: Third variation with unique characteristics and formatting - variation 17
+Pattern E: Fifth pattern variant with distinctive text elements - variation 18
+Pattern C: Third variation with unique characteristics and formatting - variation 19
+Unique document 720 with special content for ID 720
+Pattern E: Fifth pattern variant with distinctive text elements - variation 1
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization - variation 4
+Pattern E: Fifth pattern variant with distinctive text elements - variation 5
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements
+Unique document 730 with special content for ID 730
+Pattern A: This is a common document pattern that appears frequently
+Pattern A: This is a common document pattern that appears frequently
+Pattern A: This is a common document pattern that appears frequently
+Pattern A: This is a common document pattern that appears frequently - variation 14
+Pattern E: Fifth pattern variant with distinctive text elements - variation 15
+Pattern A: This is a common document pattern that appears frequently - variation 16
+Pattern D: Fourth pattern type with specific content organization
+Pattern B: Another type of document with different content structure - variation 18
+Pattern B: Another type of document with different content structure
+Unique document 740 with special content for ID 740
+Pattern C: Third variation with unique characteristics and formatting
+Pattern B: Another type of document with different content structure
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting - variation 8
+Pattern A: This is a common document pattern that appears frequently
+Unique document 750 with special content for ID 750
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements - variation 12
+Pattern B: Another type of document with different content structure
+Pattern E: Fifth pattern variant with distinctive text elements - variation 14
+Pattern B: Another type of document with different content structure - variation 15
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting - variation 18
+Pattern B: Another type of document with different content structure
+Unique document 760 with special content for ID 760
+Pattern C: Third variation with unique characteristics and formatting - variation 1
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure - variation 4
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting - variation 6
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements - variation 8
+Pattern B: Another type of document with different content structure
+Unique document 770 with special content for ID 770
+Pattern C: Third variation with unique characteristics and formatting
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization - variation 14
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently
+Pattern D: Fourth pattern type with specific content organization - variation 19
+Unique document 780 with special content for ID 780
+Pattern B: Another type of document with different content structure - variation 1
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization - variation 4
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting
+Pattern B: Another type of document with different content structure
+Unique document 790 with special content for ID 790
+Pattern B: Another type of document with different content structure
+Pattern A: This is a common document pattern that appears frequently - variation 12
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting
+Pattern E: Fifth pattern variant with distinctive text elements - variation 15
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently
+Pattern A: This is a common document pattern that appears frequently
+Pattern D: Fourth pattern type with specific content organization
+Unique document 800 with special content for ID 800
+Pattern B: Another type of document with different content structure - variation 1
+Pattern D: Fourth pattern type with specific content organization - variation 2
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization - variation 5
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure - variation 8
+Pattern A: This is a common document pattern that appears frequently
+Unique document 810 with special content for ID 810
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization - variation 16
+Pattern E: Fifth pattern variant with distinctive text elements - variation 17
+Pattern D: Fourth pattern type with specific content organization - variation 18
+Pattern C: Third variation with unique characteristics and formatting
+Unique document 820 with special content for ID 820
+Pattern B: Another type of document with different content structure - variation 1
+Pattern A: This is a common document pattern that appears frequently - variation 2
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently - variation 8
+Pattern A: This is a common document pattern that appears frequently - variation 9
+Unique document 830 with special content for ID 830
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting - variation 12
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization - variation 17
+Pattern B: Another type of document with different content structure
+Pattern C: Third variation with unique characteristics and formatting
+Unique document 840 with special content for ID 840
+Pattern C: Third variation with unique characteristics and formatting
+Pattern B: Another type of document with different content structure
+Pattern C: Third variation with unique characteristics and formatting - variation 3
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting - variation 5
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting
+Pattern E: Fifth pattern variant with distinctive text elements - variation 9
+Unique document 850 with special content for ID 850
+Pattern B: Another type of document with different content structure
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently - variation 13
+Pattern D: Fourth pattern type with specific content organization
+Pattern C: Third variation with unique characteristics and formatting
+Pattern D: Fourth pattern type with specific content organization
+Pattern B: Another type of document with different content structure
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern E: Fifth pattern variant with distinctive text elements
+Unique document 860 with special content for ID 860
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern E: Fifth pattern variant with distinctive text elements - variation 2
+Pattern A: This is a common document pattern that appears frequently - variation 3
+Pattern C: Third variation with unique characteristics and formatting - variation 4
+Pattern B: Another type of document with different content structure
+Pattern B: Another type of document with different content structure - variation 6
+Pattern C: Third variation with unique characteristics and formatting - variation 7
+Pattern E: Fifth pattern variant with distinctive text elements - variation 8
+Pattern D: Fourth pattern type with specific content organization
+Unique document 870 with special content for ID 870
+Pattern A: This is a common document pattern that appears frequently
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements - variation 16
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting
+Pattern B: Another type of document with different content structure
+Unique document 880 with special content for ID 880
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting - variation 2
+Pattern C: Third variation with unique characteristics and formatting - variation 3
+Pattern C: Third variation with unique characteristics and formatting - variation 4
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure - variation 6
+Pattern C: Third variation with unique characteristics and formatting
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently - variation 9
+Unique document 890 with special content for ID 890
+Pattern A: This is a common document pattern that appears frequently
+Pattern D: Fourth pattern type with specific content organization
+Pattern D: Fourth pattern type with specific content organization - variation 13
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting
+Pattern D: Fourth pattern type with specific content organization - variation 18
+Pattern E: Fifth pattern variant with distinctive text elements
+Unique document 900 with special content for ID 900
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization - variation 2
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure - variation 5
+Pattern D: Fourth pattern type with specific content organization - variation 6
+Pattern D: Fourth pattern type with specific content organization
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting
+Unique document 910 with special content for ID 910
+Pattern D: Fourth pattern type with specific content organization
+Pattern B: Another type of document with different content structure - variation 12
+Pattern B: Another type of document with different content structure - variation 13
+Pattern D: Fourth pattern type with specific content organization - variation 14
+Pattern B: Another type of document with different content structure
+Pattern A: This is a common document pattern that appears frequently - variation 16
+Pattern C: Third variation with unique characteristics and formatting
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently
+Unique document 920 with special content for ID 920
+Pattern C: Third variation with unique characteristics and formatting
+Pattern D: Fourth pattern type with specific content organization - variation 2
+Pattern D: Fourth pattern type with specific content organization - variation 3
+Pattern A: This is a common document pattern that appears frequently
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting
+Unique document 930 with special content for ID 930
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting
+Pattern B: Another type of document with different content structure - variation 15
+Pattern B: Another type of document with different content structure - variation 16
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure
+Pattern A: This is a common document pattern that appears frequently
+Unique document 940 with special content for ID 940
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently
+Pattern A: This is a common document pattern that appears frequently - variation 8
+Pattern D: Fourth pattern type with specific content organization
+Unique document 950 with special content for ID 950
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting - variation 13
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern B: Another type of document with different content structure - variation 15
+Pattern D: Fourth pattern type with specific content organization
+Pattern B: Another type of document with different content structure
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements
+Unique document 960 with special content for ID 960
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization - variation 2
+Pattern C: Third variation with unique characteristics and formatting - variation 3
+Pattern D: Fourth pattern type with specific content organization
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization
+Pattern B: Another type of document with different content structure
+Pattern D: Fourth pattern type with specific content organization
+Unique document 970 with special content for ID 970
+Pattern D: Fourth pattern type with specific content organization - variation 11
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern D: Fourth pattern type with specific content organization
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently - variation 15
+Pattern C: Third variation with unique characteristics and formatting
+Pattern A: This is a common document pattern that appears frequently
+Pattern C: Third variation with unique characteristics and formatting - variation 18
+Pattern C: Third variation with unique characteristics and formatting
+Unique document 980 with special content for ID 980
+Pattern D: Fourth pattern type with specific content organization
+Pattern B: Another type of document with different content structure - variation 2
+Pattern C: Third variation with unique characteristics and formatting
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern C: Third variation with unique characteristics and formatting - variation 6
+Pattern B: Another type of document with different content structure
+Pattern A: This is a common document pattern that appears frequently - variation 8
+Pattern B: Another type of document with different content structure
+Unique document 990 with special content for ID 990
+Pattern E: Fifth pattern variant with distinctive text elements - variation 11
+Pattern A: This is a common document pattern that appears frequently
+Pattern B: Another type of document with different content structure
+Pattern C: Third variation with unique characteristics and formatting
+Pattern C: Third variation with unique characteristics and formatting
+Pattern D: Fourth pattern type with specific content organization
+Pattern E: Fifth pattern variant with distinctive text elements
+Pattern A: This is a common document pattern that appears frequently
+Pattern E: Fifth pattern variant with distinctive text elements - variation 19

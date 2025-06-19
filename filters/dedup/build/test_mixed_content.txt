@@ -1,0 +1,16 @@
+
+   
+Single word
+Single word
+Short text
+A much longer piece of text that contains multiple sentences and various punctuation marks, including commas, periods, and exclamation points!
+Short text
+UPPERCASE TEXT
+lowercase text
+Mixed CaSe TeXt
+Numbers 123 and symbols !@#$%
+Numbers 123 and symbols !@#$%
+Text with
+newlines
+and	tabs
+Final test document

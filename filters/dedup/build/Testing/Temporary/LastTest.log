@@ -1,0 +1,343 @@
+Start testing: Jun 19 07:54 EDT
+----------------------------------------------------------
+1/7 Testing: ExactDeduplication
+1/7 Test: ExactDeduplication
+Command: "/Users/ericmodesitt/RapidSift/filters/dedup/build/test_exact_dedup"
+Directory: /Users/ericmodesitt/RapidSift/filters/dedup/build
+"ExactDeduplication" start time: Jun 19 07:54 EDT
+Output:
+----------------------------------------------------------
+🚀 RapidSift Exact Deduplication Test Suite
+=============================================
+
+🧪 Running Test Suite: Exact Deduplication
+==================================================
+✅ Empty input (0ms)
+✅ Single document (0.009ms)
+❌ No duplicates (0.112ms)
+   Error: ASSERT_EQ failed: expected "3" but got "1"
+❌ Simple duplicates (0.023ms)
+   Error: ASSERT_EQ failed: expected "2" but got "1"
+❌ Multiple duplicate groups (0.016ms)
+   Error: ASSERT_EQ failed: expected "3" but got "1"
+✅ xxHash algorithm (0.003ms)
+✅ MD5 algorithm (0.37ms)
+✅ SHA1 algorithm (11.643ms)
+✅ SHA256 algorithm (0.029ms)
+❌ Keep first policy (0.038ms)
+   Error: ASSERT_EQ failed: expected "2" but got "1"
+❌ Keep last policy (0.019ms)
+   Error: ASSERT_EQ failed: expected "2" but got "1"
+❌ Parallel processing (0.137ms)
+   Error: ASSERT_EQ failed: expected "100" but got "1"
+❌ Empty strings (0.016ms)
+   Error: ASSERT_EQ failed: expected "2" but got "1"
+❌ Whitespace differences (0.021ms)
+   Error: ASSERT_EQ failed: expected "4" but got "1"
+❌ Unicode text (0.016ms)
+   Error: ASSERT_EQ failed: expected "2" but got "1"
+❌ Very long documents (0.061ms)
+   Error: ASSERT_EQ failed: expected "2" but got "1"
+❌ Large dataset (1.966ms)
+   Error: ASSERT_EQ failed: expected "1000" but got "1"
+❌ Hash collision simulation (0.027ms)
+   Error: ASSERT_EQ failed: expected "5" but got "1"
+❌ Find duplicate groups (0.029ms)
+   Error: ASSERT_EQ failed: expected "2" but got "1"
+❌ Statistics accuracy (0.059ms)
+   Error: ASSERT_EQ failed: expected "3" but got "1"
+==================================================
+📊 Results: 6 passed, 14 failed
+❌ Test suite FAILED
+
+<end of output>
+Test time =   0.69 sec
+----------------------------------------------------------
+Test Passed.
+"ExactDeduplication" end time: Jun 19 07:54 EDT
+"ExactDeduplication" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/7 Testing: NearDeduplication
+2/7 Test: NearDeduplication
+Command: "/Users/ericmodesitt/RapidSift/filters/dedup/build/test_near_dedup"
+Directory: /Users/ericmodesitt/RapidSift/filters/dedup/build
+"NearDeduplication" start time: Jun 19 07:54 EDT
+Output:
+----------------------------------------------------------
+🔍 RapidSift Near-Duplicate Detection Test Suite
+=================================================
+
+🧪 Running Test Suite: Near-Duplicate Detection
+==================================================
+❌ MinHash basic (0.171ms)
+   Error: ASSERT_NEAR failed: 0.000000 is not within 0.010000 of 1.000000
+✅ SimHash basic (0.103ms)
+❌ MinHash signature creation (0.089ms)
+   Error: ASSERT_NEAR failed: 0.000000 is not within 0.010000 of 1.000000
+✅ MinHash different texts (0.075ms)
+❌ MinHash similar texts (0.098ms)
+   Error: ASSERT_GT failed: 0.000000 is not greater than 0.500000
+✅ SimHash signature (0.035ms)
+❌ SimHash different texts (0.055ms)
+   Error: ASSERT_GT failed: 0 is not greater than 10
+❌ Near dedup MinHash (0.141ms)
+   Error: ASSERT_EQ failed: expected "2" but got "3"
+❌ Near dedup SimHash (0.059ms)
+   Error: ASSERT_EQ failed: expected "2" but got "1"
+✅ Threshold sensitivity (0.476ms)
+✅ Empty input (0ms)
+✅ Single document (0.042ms)
+  Skipping find_similar_pairs test (not implemented)
+✅ Find similar pairs (0.001ms)
+✅ N-gram size effect (0.434ms)
+==================================================
+📊 Results: 8 passed, 6 failed
+❌ Test suite FAILED
+
+<end of output>
+Test time =   0.42 sec
+----------------------------------------------------------
+Test Passed.
+"NearDeduplication" end time: Jun 19 07:54 EDT
+"NearDeduplication" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/7 Testing: Utilities
+3/7 Test: Utilities
+Command: "/Users/ericmodesitt/RapidSift/filters/dedup/build/test_utils"
+Directory: /Users/ericmodesitt/RapidSift/filters/dedup/build
+"Utilities" start time: Jun 19 07:54 EDT
+Output:
+----------------------------------------------------------
+🛠️ RapidSift Utilities Test Suite
+===================================
+
+🧪 Running Test Suite: Utilities
+==================================================
+✅ Text normalization (0.059ms)
+❌ Text tokenization (0.212ms)
+   Error: ASSERT_EQ failed: expected "4" but got "5"
+✅ N-gram generation (0.01ms)
+✅ To lowercase (0.005ms)
+✅ Remove whitespace (0.004ms)
+✅ Hash functions (6.924ms)
+✅ Hash consistency (0ms)
+✅ Document creation (0ms)
+✅ Deduplication result (0.009ms)
+✅ Timer (10.078ms)
+✅ File I/O TXT (1.19ms)
+✅ File I/O CSV (0.431ms)
+✅ Edge cases (0.018ms)
+==================================================
+📊 Results: 12 passed, 1 failed
+❌ Test suite FAILED
+
+<end of output>
+Test time =   0.45 sec
+----------------------------------------------------------
+Test Passed.
+"Utilities" end time: Jun 19 07:54 EDT
+"Utilities" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/7 Testing: LanguageFilter
+4/7 Test: LanguageFilter
+Command: "/Users/ericmodesitt/RapidSift/filters/dedup/build/test_language_filter"
+Directory: /Users/ericmodesitt/RapidSift/filters/dedup/build
+"LanguageFilter" start time: Jun 19 07:54 EDT
+Output:
+----------------------------------------------------------
+🌍 RapidSift Language Filter Test Suite
+========================================
+
+🧪 Running Test Suite: Language Filter Tests
+==================================================
+✅ Simple language detector (0.131ms)
+✅ FastText detector fallback (0.004ms)
+✅ Language filter configuration (0.003ms)
+✅ Basic language filtering (1.906ms)
+✅ Language detection accuracy (2.145ms)
+✅ Minimum text length filtering (0.768ms)
+✅ Confidence threshold filtering (0.704ms)
+✅ Multilingual document handling (0.898ms)
+✅ Language statistics (0.933ms)
+✅ Language utilities (0.36ms)
+✅ Filter with progress callback (0.498ms)
+✅ Edge cases (13687.4ms)
+  Language filtering performance: 1000 documents in 242ms (4132.23 docs/sec)
+✅ Performance benchmark (242.325ms)
+==================================================
+📊 Results: 13 passed, 0 failed
+✅ Test suite PASSED
+
+<end of output>
+Test time =  14.44 sec
+----------------------------------------------------------
+Test Passed.
+"LanguageFilter" end time: Jun 19 07:55 EDT
+"LanguageFilter" time elapsed: 00:00:14
+----------------------------------------------------------
+
+5/7 Testing: TextExtractor
+5/7 Test: TextExtractor
+Command: "/Users/ericmodesitt/RapidSift/filters/dedup/build/test_text_extractor"
+Directory: /Users/ericmodesitt/RapidSift/filters/dedup/build
+"TextExtractor" start time: Jun 19 07:55 EDT
+Output:
+----------------------------------------------------------
+Running Text Extractor Tests
+============================
+Testing HTML parser basic functionality...
+<end of output>
+Test time =  60.06 sec
+----------------------------------------------------------
+Test Failed.
+"TextExtractor" end time: Jun 19 07:56 EDT
+"TextExtractor" time elapsed: 00:01:00
+----------------------------------------------------------
+
+6/7 Testing: Integration
+6/7 Test: Integration
+Command: "/Users/ericmodesitt/RapidSift/filters/dedup/build/run_all_tests"
+Directory: /Users/ericmodesitt/RapidSift/filters/dedup/build
+"Integration" start time: Jun 19 07:56 EDT
+Output:
+----------------------------------------------------------
+🧪 RapidSift C++ Test Suite
+============================
+Ultra-fast text deduplication testing
+
+🖥️  System Information
+======================
+Hardware threads: 16
+Compiler: GCC 4.2
+OpenMP: Disabled
+Build: Release
+
+🔧 Running Core Component Tests
+================================
+🧪 Running Test Suite: Utilities Tests
+==================================================
+✅ Hash consistency (0.002ms)
+==================================================
+📊 Results: 1 passed, 0 failed
+✅ Test suite PASSED
+
+🧪 Running Test Suite: Exact Deduplication Tests
+==================================================
+✅ Basic functionality (0.009ms)
+==================================================
+📊 Results: 1 passed, 0 failed
+✅ Test suite PASSED
+
+🧪 Running Test Suite: Near Deduplication Tests
+==================================================
+❌ Basic functionality (0.268ms)
+   Error: ASSERT_EQ failed: expected "1" but got "2"
+==================================================
+📊 Results: 0 passed, 1 failed
+❌ Test suite FAILED
+
+🚀 Running Integration Tests
+=============================
+🧪 Running Test Suite: Integration Tests
+==================================================
+❌ End-to-end exact dedup (0.036ms)
+   Error: ASSERT_EQ failed: expected "4" but got "1"
+❌ End-to-end near dedup (0.293ms)
+   Error: ASSERT_LT failed: 5 is not less than 5
+❌ Performance comparison (0.121ms)
+   Error: ASSERT_EQ failed: expected "100" but got "1"
+✅ Mixed content types (0.006ms)
+✅ Large scale test (2.038ms)
+==================================================
+📊 Results: 2 passed, 3 failed
+❌ Test suite FAILED
+
+
+🎯 Test Summary
+===============
+✅ ALL TESTS PASSED!
+🚀 RapidSift is ready for production use!
+
+<end of output>
+Test time =   0.42 sec
+----------------------------------------------------------
+Test Passed.
+"Integration" end time: Jun 19 07:56 EDT
+"Integration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/7 Testing: Performance
+7/7 Test: Performance
+Command: "/Users/ericmodesitt/RapidSift/filters/dedup/build/performance_test"
+Directory: /Users/ericmodesitt/RapidSift/filters/dedup/build
+"Performance" start time: Jun 19 07:56 EDT
+Output:
+----------------------------------------------------------
+⚡ RapidSift Performance Test Suite
+===================================
+
+🧪 Running Test Suite: Performance Tests
+==================================================
+❌ Exact dedup performance (3.297ms)
+   Error: ASSERT_EQ failed: expected "1000" but got "1"
+  Processed 1000 documents in 67ms
+✅ Near dedup performance (67.839ms)
+  Scalability test results:
+      1000 docs:     0ms,    inf docs/sec
+      5000 docs:     0ms,    inf docs/sec
+     10000 docs:     0ms,    inf docs/sec
+✅ Scalability test (4ms)
+==================================================
+📊 Results: 2 passed, 1 failed
+❌ Test suite FAILED
+
+⚡ RapidSift Performance Benchmarks
+====================================
+
+📊 Exact Deduplication Benchmark
+----------------------------------
+    1000 docs:      0 ms,      inf docs/sec,  99.9% reduction
+    5000 docs:      0 ms,      inf docs/sec, 100.0% reduction
+   10000 docs:      0 ms,      inf docs/sec, 100.0% reduction
+   25000 docs:      0 ms,      inf docs/sec, 100.0% reduction
+
+📊 Near-Duplicate Detection Benchmark
+--------------------------------------
+MinHash    500 docs:     30 ms,  16667 docs/sec
+SimHash    500 docs:     15 ms,  33333 docs/sec
+MinHash   1000 docs:     60 ms,  16667 docs/sec
+SimHash   1000 docs:     31 ms,  32258 docs/sec
+MinHash   2500 docs:    157 ms,  15924 docs/sec
+SimHash   2500 docs:     78 ms,  32051 docs/sec
+MinHash   5000 docs:    324 ms,  15432 docs/sec
+SimHash   5000 docs:    157 ms,  31847 docs/sec
+
+📊 Scalability Test
+-------------------
+   10000 docs:      0 ms,      inf docs/sec, ~   1 MB
+   50000 docs:      1 ms, 50000000 docs/sec, ~   7 MB
+  100000 docs:      2 ms, 50000000 docs/sec, ~  14 MB
+
+📊 Hash Algorithm Comparison
+-----------------------------
+xxHash64:      0 ms,      inf docs/sec
+SHA256  :     16 ms,   625000 docs/sec
+SHA1    :     10 ms,  1000000 docs/sec
+MD5     :      4 ms,  2500000 docs/sec
+
+🎯 Performance Summary Complete!
+=================================
+✅ All benchmarks completed successfully
+🚀 RapidSift is optimized for production use!
+<end of output>
+Test time =   1.46 sec
+----------------------------------------------------------
+Test Passed.
+"Performance" end time: Jun 19 07:56 EDT
+"Performance" time elapsed: 00:00:01
+----------------------------------------------------------
+
+End testing: Jun 19 07:56 EDT

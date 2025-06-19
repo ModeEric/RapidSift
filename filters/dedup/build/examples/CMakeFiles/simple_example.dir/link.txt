@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/libarchive/lib CMakeFiles/simple_example.dir/simple_example.cpp.o -o simple_example  ../librapidsift_core.a /usr/local/Cellar/openssl@3/3.5.0/lib/libssl.dylib /usr/local/Cellar/openssl@3/3.5.0/lib/libcrypto.dylib
