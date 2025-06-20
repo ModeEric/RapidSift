@@ -1,0 +1,45 @@
+# RapidSift Blocked Domains List
+# Lines starting with # are comments
+# One domain per line
+
+# Spam and malware domains
+spam-site.com
+malware-host.net
+phishing-example.org
+virus-download.co
+
+# Adult content domains
+adult-site.xxx
+nsfw-content.net
+
+# Click farms and suspicious domains
+click-farm.info
+auto-content.tk
+fake-news.ml
+bot-generated.ga
+
+# Known URL shortener abuse
+suspicious-short.ly
+malicious-redirect.co
+
+# Parked domains
+domain-parking.com
+for-sale-domain.net
+
+# Suspicious TLDs patterns
+random-site.tk
+spam-domain.ml
+phishing.ga
+click-here.cf
+
+# AI/bot generated content sites
+ai-generated.com
+auto-text.net
+robot-content.org
+spam-bot.info
+
+# Low quality content farms
+content-farm.biz
+article-spinner.co
+seo-spam.net
+link-farm.org 

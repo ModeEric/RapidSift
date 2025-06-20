@@ -1,0 +1,34 @@
+# RapidSift Toxicity Keywords
+# This file contains keywords that may indicate toxic content
+# Lines starting with # are comments
+# Keywords are case-insensitive
+
+# Hate speech indicators (generic examples)
+hate_keyword_1
+hate_keyword_2
+discriminatory_term_1
+
+# Violence indicators (generic examples)
+violence_keyword_1
+violence_keyword_2
+threat_keyword_1
+
+# Harassment indicators (generic examples)
+harassment_keyword_1
+harassment_keyword_2
+bullying_term_1
+
+# Profanity indicators (generic examples)
+profanity_keyword_1
+profanity_keyword_2
+offensive_term_1
+
+# NSFW content indicators (generic examples)
+nsfw_keyword_1
+nsfw_keyword_2
+explicit_term_1
+
+# Note: In production, this file should be populated with actual
+# problematic keywords appropriate for your use case and content policy.
+# Consider using established toxicity detection datasets or APIs
+# for more comprehensive coverage. 

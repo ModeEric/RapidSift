@@ -1,0 +1,67 @@
+{
+  "email_patterns": [
+    "\\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Z|a-z]{2,}\\b"
+  ],
+  "phone_patterns": [
+    "\\b(?:\\+?1[-\\.\\s]?)?\\(?([0-9]{3})\\)?[-\\.\\s]?([0-9]{3})[-\\.\\s]?([0-9]{4})\\b",
+    "\\b\\d{3}-\\d{3}-\\d{4}\\b",
+    "\\b\\(\\d{3}\\)\\s?\\d{3}-\\d{4}\\b"
+  ],
+  "ssn_patterns": [
+    "\\b\\d{3}-\\d{2}-\\d{4}\\b",
+    "\\b\\d{9}\\b"
+  ],
+  "credit_card_patterns": [
+    "\\b(?:4[0-9]{12}(?:[0-9]{3})?|5[1-5][0-9]{14}|3[47][0-9]{13}|3[0-9]{13}|6(?:011|5[0-9]{2})[0-9]{12})\\b"
+  ],
+  "ip_address_patterns": [
+    "\\b(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\b"
+  ],
+  "address_patterns": [
+    "\\b\\d+\\s+[A-Za-z\\s]+(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Lane|Ln|Drive|Dr|Court|Ct|Place|Pl)\\b"
+  ],
+  "government_id_patterns": [
+    "\\b[A-Z]{2}\\d{6}[A-Z]?\\b",
+    "\\b\\d{2}-\\d{7}\\b"
+  ],
+  "safe_domains": [
+    "example.com",
+    "test.com",
+    "sample.org",
+    "demo.net",
+    "placeholder.edu",
+    "noreply.com",
+    "donotreply.com",
+    "no-reply.com"
+  ],
+  "placeholders": {
+    "email": "[EMAIL]",
+    "phone": "[PHONE]",
+    "ssn": "[SSN]",
+    "credit_card": "[CREDIT_CARD]",
+    "ip_address": "[IP_ADDRESS]",
+    "address": "[ADDRESS]",
+    "person_name": "[PERSON]",
+    "organization": "[ORGANIZATION]",
+    "generic": "[REDACTED]"
+  },
+  "anonymization_templates": {
+    "email": "user{ID}@example.com",
+    "phone": "555-0{ID}",
+    "address": "{ID} Example St",
+    "person_name": "Person {ID}"
+  },
+  "exception_contexts": [
+    "example",
+    "for example",
+    "e.g.",
+    "such as",
+    "test data",
+    "sample",
+    "demo",
+    "placeholder",
+    "dummy data",
+    "fake",
+    "fictional"
+  ]
+} 

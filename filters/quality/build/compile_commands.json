@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/quality/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/quality/include -I/usr/local/include -I/Users/ericmodesitt/RapidSift/filters/quality/build/_deps/cxxopts-src/include -O3 -DNDEBUG -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -Wall -Wextra -O3 -o CMakeFiles/rapidsift_quality.dir/src/length_filter.cpp.o -c /Users/ericmodesitt/RapidSift/filters/quality/src/length_filter.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/quality/src/length_filter.cpp",
+  "output": "CMakeFiles/rapidsift_quality.dir/src/length_filter.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/quality/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/quality/include -I/usr/local/include -I/Users/ericmodesitt/RapidSift/filters/quality/build/_deps/cxxopts-src/include -O3 -DNDEBUG -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -Wall -Wextra -O3 -o CMakeFiles/rapidsift_quality.dir/src/gibberish_filter.cpp.o -c /Users/ericmodesitt/RapidSift/filters/quality/src/gibberish_filter.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/quality/src/gibberish_filter.cpp",
+  "output": "CMakeFiles/rapidsift_quality.dir/src/gibberish_filter.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/quality/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/quality/include -I/usr/local/include -I/Users/ericmodesitt/RapidSift/filters/quality/build/_deps/cxxopts-src/include -O3 -DNDEBUG -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -Wall -Wextra -O3 -o CMakeFiles/rapidsift_quality.dir/src/repetition_filter.cpp.o -c /Users/ericmodesitt/RapidSift/filters/quality/src/repetition_filter.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/quality/src/repetition_filter.cpp",
+  "output": "CMakeFiles/rapidsift_quality.dir/src/repetition_filter.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/quality/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/quality/include -I/usr/local/include -I/Users/ericmodesitt/RapidSift/filters/quality/build/_deps/cxxopts-src/include -O3 -DNDEBUG -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -Wall -Wextra -O3 -o CMakeFiles/rapidsift_quality.dir/src/model_quality_filter.cpp.o -c /Users/ericmodesitt/RapidSift/filters/quality/src/model_quality_filter.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/quality/src/model_quality_filter.cpp",
+  "output": "CMakeFiles/rapidsift_quality.dir/src/model_quality_filter.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/quality/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/quality/include -I/usr/local/include -I/Users/ericmodesitt/RapidSift/filters/quality/build/_deps/cxxopts-src/include -O3 -DNDEBUG -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -Wall -Wextra -O3 -o CMakeFiles/rapidsift_quality.dir/src/utils.cpp.o -c /Users/ericmodesitt/RapidSift/filters/quality/src/utils.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/quality/src/utils.cpp",
+  "output": "CMakeFiles/rapidsift_quality.dir/src/utils.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/quality/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/quality/include -I/usr/local/include -I/Users/ericmodesitt/RapidSift/filters/quality/build/_deps/cxxopts-src/include -O3 -DNDEBUG -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -Wall -Wextra -O3 -o CMakeFiles/quality_filter.dir/src/main.cpp.o -c /Users/ericmodesitt/RapidSift/filters/quality/src/main.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/quality/src/main.cpp",
+  "output": "CMakeFiles/quality_filter.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/ericmodesitt/RapidSift/filters/quality/build/examples",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/ericmodesitt/RapidSift/filters/quality/include -I/usr/local/include -I/Users/ericmodesitt/RapidSift/filters/quality/build/_deps/cxxopts-src/include -O3 -DNDEBUG -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -Wall -Wextra -O3 -o CMakeFiles/model_filtering_example.dir/model_filtering_example.cpp.o -c /Users/ericmodesitt/RapidSift/filters/quality/examples/model_filtering_example.cpp",
+  "file": "/Users/ericmodesitt/RapidSift/filters/quality/examples/model_filtering_example.cpp",
+  "output": "examples/CMakeFiles/model_filtering_example.dir/model_filtering_example.cpp.o"
+}
+]
