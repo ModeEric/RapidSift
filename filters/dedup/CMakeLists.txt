@@ -42,6 +42,7 @@ add_library(rapidsift_core
     src/language_filter.cpp
     src/text_extractor.cpp
     src/text_extractor_utils.cpp
+    src/decontamination_filter.cpp
 )
 
 target_link_libraries(rapidsift_core 

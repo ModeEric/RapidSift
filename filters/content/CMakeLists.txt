@@ -88,6 +88,7 @@ set(SOURCES
     src/domain_filter.cpp
     src/toxicity_filter.cpp
     src/pii_filter.cpp
+    src/license_filter.cpp
     src/content_processor.cpp
     src/utils.cpp
 )

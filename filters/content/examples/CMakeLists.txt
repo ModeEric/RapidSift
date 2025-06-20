@@ -2,5 +2,8 @@
 add_executable(content_example simple_example.cpp)
 target_link_libraries(content_example rapidsift_content)
 
+add_executable(license_compliance_example license_compliance_example.cpp)
+target_link_libraries(license_compliance_example rapidsift_content)
+
 # Install examples
-install(TARGETS content_example RUNTIME DESTINATION bin/examples) 
+install(TARGETS content_example license_compliance_example RUNTIME DESTINATION bin/examples) 
